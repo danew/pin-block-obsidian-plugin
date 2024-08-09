@@ -1,0 +1,10 @@
+{
+	"id": "pin-block-obsidian-plugin",
+	"name": "Pin Block",
+	"version": "0.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Allow you to pin blocks to the top of your files",
+	"author": "danew",
+	"authorUrl": "https://danewilson.me",
+	"isDesktopOnly": false
+}
